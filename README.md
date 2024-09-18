@@ -24,7 +24,7 @@ Gnome masaüstü ortamında aşağıdaki adımları uygulayarak sağ tıklama il
 Bilgisayarınızda `git` yüklü değilse aşağıdaki komut ile git yükleyebilirsiniz. Git yüklü ise bir sonraki adıma geçebilirsiniz.
 
 ```bash
-sudo apt install git
+sudo apt install git -y
 ```
 
 Scripti klonlamak için aşağıdaki komutu terminale yapıştırın:

@@ -22,7 +22,7 @@ Gnome masaüstü ortamında aşağıdaki adımları uygulayarak sağ tıklama il
 ## Hızlı Kurulum
 
 ```bash
-wget https://raw.githubusercontent.com/kaankaltakkiran/Gnome_right_click_create_new_file/refs/heads/main/install-script.sh -O - | sh
+wget https://raw.githubusercontent.com/kaankaltakkiran/Gnome_right_click_create_new_file/main/install-script.sh -O - | bash
 ```
 
 ## Script Nasıl Çalıştırılır ?

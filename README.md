@@ -19,6 +19,12 @@ Gnome masaüstü ortamında aşağıdaki adımları uygulayarak sağ tıklama il
 - Libre Office Word Spreadsheet
 - Libre Office Word Presentation
 
+## Hızlı Kurulum
+
+```bash
+wget https://raw.githubusercontent.com/kaankaltakkiran/Gnome_right_click_create_new_file/refs/heads/main/install-script.sh -O - | sh
+```
+
 ## Script Nasıl Çalıştırılır ?
 
 Bilgisayarınızda `git` yüklü değilse aşağıdaki komut ile git yükleyebilirsiniz. Git yüklü ise bir sonraki adıma geçebilirsiniz.

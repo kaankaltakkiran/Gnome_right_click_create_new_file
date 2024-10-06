@@ -21,7 +21,7 @@ Gnome masaüstü ortamında aşağıdaki adımları uygulayarak sağ tıklama il
 
 ## Hızlı Kurulum
 
-Tek komut ile scripti kurabilirsniz. Aşağıdaki komutu terminale yapıştırın:
+Tek komut ile scripti kurabilirsiniz. Aşağıdaki komutu terminale yapıştırın:
 
 ```bash
 wget https://raw.githubusercontent.com/kaankaltakkiran/Gnome_right_click_create_new_file/main/install-script.sh -O - | bash
